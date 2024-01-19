@@ -229,9 +229,9 @@ def upload():
         transcript = pd.read_csv('transcript.csv')
         sentences = [sent.replace('%HESITATION', '') for sent in transcript['sentence']]
         transcript['sentence'] = sentences
-        summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id)
+        summary = summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id)
 
-        return jsonify({"message": "Video uploaded, converted to audio, transcribed, and summarized"})
+        return jsonify({"message": summary})
 
     elif file.filename.lower().endswith(('.mp3', '.wav')):
         audio_path = 'uploaded_audio.mp3'
@@ -242,9 +242,9 @@ def upload():
         transcript = pd.read_csv('transcript.csv')
         sentences = [sent.replace('%HESITATION', '') for sent in transcript['sentence']]
         transcript['sentence'] = sentences
-        summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id)
+        summary = summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id)
 
-        return jsonify({"message": "Audio uploaded, transcribed, and summarized"})
+        return jsonify({"message": summary})
 
     elif file.filename.lower().endswith('.csv'):
         transcript_path = 'uploaded_transcript.csv'
