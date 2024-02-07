@@ -1,12 +1,7 @@
 
-
-    Please summarise the text in bullet points:
-    
-    * The speaker is an artist and makes videos about possible futures.
-    * The speaker wonders how many people have heard of the myth of the "myth of the given".
-    * The speaker finds it interesting how people often think science and religion are mutually exclusive.
-    * The speaker created a service that addresses the main cash flows in the music industry.
-    * The speaker is a musician and reads a lot.
-    * The speaker thinks it's tough to be a musician.
-    * The speaker is calling out to people to find the rest of the film.
-    * The speaker is okay with people finding the rest of the film.
+  1. The speaker is an artist who creates videos discussing various topics.
+  2. One of their videos discusses the myth that science and faith are opposing forces.
+  3. People often wrongly assume that science and faith are incompatible.
+  4. The speaker mentions a professor who supports their argument.
+  5. The speaker also mentions their background as a musician.
+  6. They end the text by inviting viewers to watch the rest of the film.

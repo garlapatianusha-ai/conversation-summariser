@@ -1,5 +1,3 @@
-
-
 ## Frontend
 ###### Installing dependencies
 - npm install

@@ -4432,49 +4432,49 @@
             "from": 73.08,
             "to": 73.26,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 73.26,
             "to": 73.36,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 73.36,
             "to": 73.62,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 73.62,
             "to": 73.83,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 73.83,
             "to": 73.97,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 73.97,
             "to": 74.33,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 74.33,
             "to": 75.02,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.51,
             "final": false
         },
         {
@@ -4495,210 +4495,210 @@
             "from": 76.32,
             "to": 76.75,
             "speaker": 2,
-            "confidence": 0.53,
+            "confidence": 0.55,
             "final": false
         },
         {
             "from": 77.23,
             "to": 77.45,
             "speaker": 2,
-            "confidence": 0.55,
+            "confidence": 0.58,
             "final": false
         },
         {
             "from": 77.45,
             "to": 78.08,
             "speaker": 2,
-            "confidence": 0.55,
+            "confidence": 0.58,
             "final": false
         },
         {
             "from": 78.11,
             "to": 78.24,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 78.24,
             "to": 78.57,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 78.57,
             "to": 78.7,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 78.7,
             "to": 78.98,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 78.98,
             "to": 79.15,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 79.15,
             "to": 79.69,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 79.69,
             "to": 79.82,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 79.82,
             "to": 80.21,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 80.21,
             "to": 80.52,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 80.52,
             "to": 80.73,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 80.73,
             "to": 81.33,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 81.33,
             "to": 81.53,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 81.53,
             "to": 82.23,
             "speaker": 2,
-            "confidence": 0.52,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 82.26,
             "to": 82.85,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.58,
             "final": false
         },
         {
             "from": 83.03,
             "to": 83.13,
             "speaker": 2,
-            "confidence": 0.4,
+            "confidence": 0.35,
             "final": false
         },
         {
             "from": 83.13,
             "to": 83.85,
             "speaker": 2,
-            "confidence": 0.4,
+            "confidence": 0.35,
             "final": false
         },
         {
             "from": 83.88,
             "to": 84.0,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 84.0,
             "to": 84.2,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 84.2,
             "to": 84.5,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 84.5,
             "to": 84.61,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 84.61,
             "to": 85.12,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 85.64,
             "to": 85.86,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 85.86,
             "to": 85.98,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 85.98,
             "to": 86.31,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 86.31,
             "to": 86.52,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 86.52,
             "to": 86.78,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 86.78,
             "to": 87.33,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.52,
             "final": false
         },
         {
@@ -4782,189 +4782,189 @@
             "from": 91.84,
             "to": 92.13,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 92.13,
             "to": 92.76,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 92.97,
             "to": 93.35,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 93.35,
             "to": 93.42,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 93.42,
             "to": 93.97,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 93.97,
             "to": 94.13,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 94.13,
             "to": 94.71,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 94.71,
             "to": 95.29,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 95.29,
             "to": 96.08,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.37,
             "final": false
         },
         {
             "from": 96.34,
             "to": 96.49,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 96.49,
             "to": 96.65,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 96.65,
             "to": 97.03,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 97.03,
             "to": 97.14,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 97.14,
             "to": 97.6,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 97.6,
             "to": 97.76,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 97.76,
             "to": 98.05,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 98.05,
             "to": 98.49,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 98.49,
             "to": 98.76,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 98.76,
             "to": 99.36,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 99.39,
             "to": 99.7,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.43,
             "final": false
         },
         {
             "from": 99.7,
             "to": 99.91,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.43,
             "final": false
         },
         {
             "from": 99.91,
             "to": 100.44,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.43,
             "final": false
         },
         {
             "from": 100.73,
             "to": 100.86,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 100.86,
             "to": 101.6,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 101.63,
             "to": 102.06,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.55,
             "final": false
         },
         {
             "from": 102.06,
             "to": 102.26,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.55,
             "final": false
         },
         {
             "from": 102.26,
             "to": 102.84,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.55,
             "final": false
         },
         {
@@ -4978,280 +4978,280 @@
             "from": 103.53,
             "to": 103.68,
             "speaker": 2,
-            "confidence": 0.58,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 103.68,
             "to": 103.94,
             "speaker": 2,
-            "confidence": 0.58,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 103.94,
             "to": 104.07,
             "speaker": 2,
-            "confidence": 0.58,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 104.07,
             "to": 104.6,
             "speaker": 2,
-            "confidence": 0.58,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 105.0,
             "to": 105.33,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 105.33,
             "to": 105.76,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 105.79,
             "to": 105.96,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.4,
             "final": false
         },
         {
             "from": 105.96,
             "to": 106.32,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.4,
             "final": false
         },
         {
             "from": 107.0,
             "to": 107.15,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 107.15,
             "to": 107.68,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 107.68,
             "to": 107.88,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 107.88,
             "to": 108.43,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 108.43,
             "to": 108.73,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 108.73,
             "to": 108.91,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 108.91,
             "to": 108.98,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 108.98,
             "to": 109.63,
             "speaker": 2,
-            "confidence": 0.43,
+            "confidence": 0.47,
             "final": false
         },
         {
             "from": 109.66,
             "to": 109.81,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 109.81,
             "to": 110.04,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 110.04,
             "to": 110.13,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 110.13,
             "to": 110.49,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 110.49,
             "to": 110.65,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 110.65,
             "to": 111.14,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 111.14,
             "to": 111.31,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 111.31,
             "to": 111.73,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 111.73,
             "to": 112.27,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 112.27,
             "to": 112.62,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 112.62,
             "to": 112.72,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 112.72,
             "to": 113.17,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 113.53,
             "to": 113.69,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 113.69,
             "to": 113.75,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 113.75,
             "to": 114.05,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 114.05,
             "to": 114.33,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 114.58,
             "to": 114.85,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 114.85,
             "to": 114.96,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 114.96,
             "to": 115.22,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 115.22,
             "to": 115.29,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 115.29,
             "to": 115.72,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 115.72,
             "to": 115.91,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 115.91,
             "to": 116.65,
             "speaker": 2,
-            "confidence": 0.35,
+            "confidence": 0.33,
             "final": false
         },
         {
             "from": 116.69,
             "to": 117.75,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.55,
             "final": false
         },
         {
@@ -5363,7 +5363,7 @@
             "from": 123.87,
             "to": 124.43,
             "speaker": 2,
-            "confidence": 0.49,
+            "confidence": 0.42,
             "final": false
         },
         {
@@ -5398,91 +5398,91 @@
             "from": 126.0,
             "to": 126.22,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 126.22,
             "to": 126.29,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 126.29,
             "to": 126.72,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 126.72,
             "to": 126.94,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 126.94,
             "to": 127.65,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 127.9,
             "to": 128.74,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 128.8,
             "to": 128.97,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 128.97,
             "to": 129.07,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 129.07,
             "to": 129.49,
             "speaker": 2,
-            "confidence": 0.47,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 129.97,
             "to": 130.31,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.58,
             "final": false
         },
         {
             "from": 130.31,
             "to": 130.7,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.58,
             "final": false
         },
         {
             "from": 130.7,
             "to": 130.86,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.58,
             "final": false
         },
         {
             "from": 130.86,
             "to": 131.61,
             "speaker": 2,
-            "confidence": 0.57,
+            "confidence": 0.58,
             "final": false
         },
         {
@@ -5503,126 +5503,126 @@
             "from": 132.28,
             "to": 132.5,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 132.5,
             "to": 132.64,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 132.64,
             "to": 132.88,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 132.91,
             "to": 133.11,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 133.11,
             "to": 133.69,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 133.69,
             "to": 134.16,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.48,
             "final": false
         },
         {
             "from": 134.78,
             "to": 135.03,
             "speaker": 2,
-            "confidence": 0.6,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 135.03,
             "to": 135.16,
             "speaker": 2,
-            "confidence": 0.6,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 135.16,
             "to": 135.6,
             "speaker": 2,
-            "confidence": 0.6,
+            "confidence": 0.59,
             "final": false
         },
         {
             "from": 135.73,
             "to": 135.97,
             "speaker": 2,
-            "confidence": 0.41,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 135.97,
             "to": 136.43,
             "speaker": 2,
-            "confidence": 0.41,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 136.43,
             "to": 137.03,
             "speaker": 2,
-            "confidence": 0.41,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 137.03,
             "to": 137.69,
             "speaker": 2,
-            "confidence": 0.41,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 137.9,
             "to": 138.0,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.4,
             "final": false
         },
         {
             "from": 138.0,
             "to": 138.16,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.4,
             "final": false
         },
         {
             "from": 138.16,
             "to": 138.59,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.4,
             "final": false
         },
         {
             "from": 138.59,
             "to": 138.81,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.4,
             "final": false
         },
         {
             "from": 138.81,
             "to": 139.59,
             "speaker": 2,
-            "confidence": 0.48,
+            "confidence": 0.4,
             "final": false
         },
         {
@@ -5643,14 +5643,14 @@
             "from": 141.81,
             "to": 141.96,
             "speaker": 2,
-            "confidence": 0.53,
+            "confidence": 0.51,
             "final": false
         },
         {
             "from": 141.96,
             "to": 142.31,
             "speaker": 2,
-            "confidence": 0.53,
+            "confidence": 0.51,
             "final": false
         },
         {
@@ -5818,84 +5818,84 @@
             "from": 150.6,
             "to": 150.84,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 150.84,
             "to": 150.92,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 150.92,
             "to": 151.21,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 151.21,
             "to": 151.46,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 151.46,
             "to": 151.73,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 151.73,
             "to": 152.16,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 152.16,
             "to": 152.27,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 152.27,
             "to": 152.73,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 152.73,
             "to": 153.16,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 153.16,
             "to": 153.41,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 153.41,
             "to": 153.62,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 153.62,
             "to": 153.92,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.49,
             "final": false
         },
         {
@@ -5930,98 +5930,98 @@
             "from": 155.33,
             "to": 155.65,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 155.65,
             "to": 156.22,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 156.22,
             "to": 156.52,
             "speaker": 2,
-            "confidence": 0.46,
+            "confidence": 0.5,
             "final": false
         },
         {
             "from": 156.55,
             "to": 156.68,
             "speaker": 2,
-            "confidence": 0.59,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 156.68,
             "to": 156.95,
             "speaker": 2,
-            "confidence": 0.59,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 156.95,
             "to": 157.48,
             "speaker": 2,
-            "confidence": 0.59,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 157.48,
             "to": 158.11,
             "speaker": 2,
-            "confidence": 0.59,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 158.31,
             "to": 158.51,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
             "from": 158.51,
             "to": 158.79,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
             "from": 158.79,
             "to": 159.15,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
             "from": 159.15,
             "to": 159.28,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
             "from": 159.28,
             "to": 159.82,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
             "from": 159.82,
             "to": 160.19,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
             "from": 160.19,
             "to": 161.05,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.41,
             "final": false
         },
         {
@@ -6042,42 +6042,42 @@
             "from": 164.53,
             "to": 164.74,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 164.74,
             "to": 165.34,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 165.34,
             "to": 165.8,
             "speaker": 2,
-            "confidence": 0.44,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 165.94,
             "to": 166.23,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.44,
             "final": false
         },
         {
             "from": 166.23,
             "to": 166.46,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.44,
             "final": false
         },
         {
             "from": 166.46,
             "to": 167.0,
             "speaker": 2,
-            "confidence": 0.45,
+            "confidence": 0.44,
             "final": false
         },
         {
@@ -6140,63 +6140,63 @@
             "from": 169.86,
             "to": 170.26,
             "speaker": 2,
-            "confidence": 0.5,
+            "confidence": 0.45,
             "final": false
         },
         {
             "from": 170.45,
             "to": 170.62,
             "speaker": 2,
-            "confidence": 0.25,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 170.62,
             "to": 170.83,
             "speaker": 2,
-            "confidence": 0.25,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 170.83,
             "to": 170.98,
             "speaker": 2,
-            "confidence": 0.25,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 170.98,
             "to": 171.1,
             "speaker": 2,
-            "confidence": 0.25,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 171.1,
             "to": 171.63,
             "speaker": 2,
-            "confidence": 0.25,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 171.63,
             "to": 172.15,
             "speaker": 2,
-            "confidence": 0.25,
+            "confidence": 0.34,
             "final": false
         },
         {
             "from": 172.36,
             "to": 173.0,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 173.0,
             "to": 173.59,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.53,
             "final": false
         },
         {
@@ -6231,35 +6231,35 @@
             "from": 175.56,
             "to": 175.85,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 175.85,
             "to": 175.98,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 175.98,
             "to": 176.49,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 176.49,
             "to": 176.79,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.54,
             "final": false
         },
         {
             "from": 176.79,
             "to": 177.45,
             "speaker": 2,
-            "confidence": 0.51,
+            "confidence": 0.54,
             "final": false
         },
         {
@@ -6301,35 +6301,35 @@
             "from": 179.25,
             "to": 179.47,
             "speaker": 2,
-            "confidence": 0.39,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 179.47,
             "to": 179.56,
             "speaker": 2,
-            "confidence": 0.39,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 179.56,
             "to": 179.96,
             "speaker": 2,
-            "confidence": 0.39,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 179.96,
             "to": 180.16,
             "speaker": 2,
-            "confidence": 0.39,
+            "confidence": 0.38,
             "final": false
         },
         {
             "from": 180.16,
             "to": 180.91,
             "speaker": 2,
-            "confidence": 0.39,
+            "confidence": 0.38,
             "final": false
         },
         {
@@ -6378,84 +6378,84 @@
             "from": 184.72,
             "to": 185.54,
             "speaker": 2,
-            "confidence": 0.56,
+            "confidence": 0.52,
             "final": false
         },
         {
             "from": 185.83,
             "to": 185.97,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 185.97,
             "to": 186.19,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 186.19,
             "to": 186.45,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 186.45,
             "to": 187.15,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 187.15,
             "to": 187.51,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 187.51,
             "to": 188.3,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.53,
             "final": false
         },
         {
             "from": 188.78,
             "to": 189.4,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 189.4,
             "to": 189.61,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 189.61,
             "to": 190.22,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 190.22,
             "to": 190.57,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.49,
             "final": false
         },
         {
             "from": 190.57,
             "to": 191.0,
             "speaker": 2,
-            "confidence": 0.54,
+            "confidence": 0.49,
             "final": false
         },
         {
@@ -6518,14 +6518,14 @@
             "from": 197.85,
             "to": 198.38,
             "speaker": 2,
-            "confidence": 0.38,
+            "confidence": 0.42,
             "final": false
         },
         {
             "from": 198.38,
             "to": 198.74,
             "speaker": 2,
-            "confidence": 0.38,
+            "confidence": 0.42,
             "final": false
         },
         {

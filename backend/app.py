@@ -83,7 +83,7 @@ def process_transcript(speech_recognition_results):
     start_time = []
     end_time = []
     
-    # Formatting the output
+    # Formatting the output 
     for val in speech_recognition_results['results']:
         text.append(val['alternatives'][0]['transcript'])
         start_time.append(val['alternatives'][0]['timestamps'][0][1])
@@ -128,7 +128,7 @@ def summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id):
     params = {
         GenParams.DECODING_METHOD: "sample",
         GenParams.MIN_NEW_TOKENS: 10,
-        GenParams.MAX_NEW_TOKENS: 200,
+        GenParams.MAX_NEW_TOKENS: 150,
         GenParams.RANDOM_SEED: 42,
         GenParams.TEMPERATURE: 0,
         GenParams.TOP_K: 50,
@@ -182,17 +182,47 @@ def summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id):
             return text
     llm_model = LangChainInterface(model='meta-llama/llama-2-70b-chat', credentials=creds, params=params, project_id=project_id)
     #predict with the model
-    response = f"""
-    Instructions:
-    0. Identify the agenda for your own reference
-    1. Keep the response concise, relevant and to the point
-    2. Do not include irrelevant details in the response
-    3. Keep the response only in bullet points
-    4. Pay attention to detail and highlight the key points
-    5. Do not include any other text like notes, headers etc
+    # response = f"""
+    # Instructions:
+    # 0. Identify the agenda for your own reference
+    # 1. Keep the response concise, relevant and to the point
+    # 2. Do not include irrelevant details in the response
+    # 3. Keep the response only in bullet points
+    # 4. Pay attention to detail and highlight the key points
+    # 5. Do not include any other text like notes, headers etc
     
-    Summarise the text from below:
-    "{transcript[['sentence', 'speaker']]}" """
+    # # Summarise the text from below:
+    # # "{transcript[['sentence', 'speaker']]}" """
+    
+    response = f"""
+    Summarize the provided text.
+    Follow these guidelines:
+    1. Keep the response brief, relevant, and in bullet points
+    2. Exclude unnecessary details
+    3. Highlight key points from the text
+    4. Do not include extra text such as notes or headers
+    Text: "{transcript[['sentence']]}" """ 
+
+    # response = f"""
+    # The below given text is a {type_of_conv}. Summarise and mention the key discussion pointers from the text shared:
+    # "{'. '.join(list(transcript[['sentence']]))}" 
+
+    # Instructions to follow while generating summary:
+    # 0. Identify the agenda of discussion from the prompt shared above(for your own reference)
+    # 1. Keep the summary concise, relevant and to the point
+    # 2. Do not include irrelevant details in your summary like Instructions etc.
+    # 3. Keep it only in bullet points
+    # 4. Pay attention to detail and highlight the key points from the original prompt
+    # 5. Do not include any other content like notes, headers etc
+    # 6. Do not share the instructions in your final response. 
+    # 7. Summary should include the following things in detail: 
+    #     a. Agenda of the discussion
+    #     b. Challenges: if any
+    #     c. Steps to solve the challenges: if any
+    #     d. Updates if any
+    #     e. Next steps if any
+    #     d. Conclusion
+    # """
     
     summary = llm_model(response)
     with open('meeting_summary.txt', 'w') as f:
