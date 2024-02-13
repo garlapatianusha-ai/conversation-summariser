@@ -204,7 +204,7 @@ def summarize_conversation(transcript, api_key1, ibm_cloud_url, project_id):
     Text: "{transcript[['sentence']]}" """ 
 
     # response = f"""
-    # The below given text is a {type_of_conv}. Summarise and mention the key discussion pointers from the text shared:
+    # The below given text is a conversation. Summarise and mention the key discussion pointers from the text shared:
     # "{'. '.join(list(transcript[['sentence']]))}" 
 
     # Instructions to follow while generating summary:
